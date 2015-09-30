@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩序補義
-#+DATE: 2015-09-23 09:37:14
-#+PROPERTY: JUAN 22
+#+DATE: 2015-08-24 22:07:06.798925
+#+PROPERTY: ID KR1c0064
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十二
 <pb:KR1c0064_WYG_022-1a>¶
 欽定四庫全書¶
 　詩序補義卷二十二¶
@@ -686,4 +688,3 @@
 　　雅之終係以召旻豈非化之衰者必有思乎二公也¶
 　蕩之什十一篇九十二章七百六十九句¶
 　詩序補義卷二十二¶
-

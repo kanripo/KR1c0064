@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩序補義
-#+DATE: 2015-09-23 09:37:14
-#+PROPERTY: JUAN 14
+#+DATE: 2015-08-24 22:07:06.603804
+#+PROPERTY: ID KR1c0064
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十四
 <pb:KR1c0064_WYG_014-1a>¶
 欽定四庫全書¶
 　詩序補義卷十四¶
@@ -632,4 +634,3 @@
 　魚麗六章三章章四句三章章二句¶
 　鹿鳴之什十篇五十二章三百十五句¶
 　詩序補義卷十四¶
-
